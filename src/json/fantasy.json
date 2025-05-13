@@ -1,0 +1,37 @@
+[
+  {
+    "asin": "1234567890",
+    "title": "The Name of the Wind",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/81y6c4x5gPL.jpg",
+    "price": 10.99,
+    "category": "fantasy"
+  },
+  {
+    "asin": "0987654321",
+    "title": "Mistborn: The Final Empire",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/81bY4g1y2PL.jpg",
+    "price": 12.99,
+    "category": "fantasy"
+  },
+  {
+    "asin": "1122334455",
+    "title": "A Darker Shade of Magic",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/81c2g1g1gPL.jpg",
+    "price": 14.99,
+    "category": "fantasy"
+  },
+  {
+    "asin": "2233445566",
+    "title": "The Hobbit",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/91bZ1t1g1PL.jpg",
+    "price": 8.99,
+    "category": "fantasy"
+  },
+  {
+    "asin": "3344556677",
+    "title": "The Way of Kings",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/81t2Z1g1gPL.jpg",
+    "price": 15.99,
+    "category": "fantasy"
+  }
+]
